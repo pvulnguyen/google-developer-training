@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Business Card</string>
+    <string name="name">Paul Nguyen</string>
+    <string name="title">Mobile App Developer</string>
+    <string name="phone">+1 (415) 123 4567</string>
+    <string name="handle">"@pvulnguyen"</string>
+    <string name="email">pvulnguyen@gmail.com</string>
+</resources>
